@@ -3,7 +3,7 @@
 -- Engineer: 
 -- 
 -- Create Date:    00:28:00 10/05/2023 
--- Design Name: 
+-- Design Name:    AbbasLashani
 -- Module Name:    FA - Behavioral 
 -- Project Name: 
 -- Target Devices: 
@@ -19,16 +19,6 @@
 ----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
-
--- Uncomment the following library declaration if using
--- arithmetic functions with Signed or Unsigned values
---use IEEE.NUMERIC_STD.ALL;
-
--- Uncomment the following library declaration if instantiating
--- any Xilinx primitives in this code.
---library UNISIM;
---use UNISIM.VComponents.all;
-
 entity FA is
     Port ( 
 	        A    : in   STD_LOGIC;
